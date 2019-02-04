@@ -1,5 +1,6 @@
 .nav,
-.sticky-top{
+.sticky-top,
+.container{
     font-family: "Righteous", cursive, sans-serif;
 }
 .card-group{
